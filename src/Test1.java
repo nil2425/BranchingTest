@@ -3,7 +3,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 
-		System.out.println("Nik - dadafdfdfdf - changing my codeeeeee");
+		System.out.println("Nik - dadafdfdfdf - changed from main directly");
 		// changes 
 
 		System.out.println("Nik - changes by nilesh from github again................");
